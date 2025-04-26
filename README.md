@@ -1,1 +1,2 @@
 # time-series-analysis
+The objective is to develop a forecasting model that can predict future sales trends based on historical data. The analysis will involve data preprocessing, model specification, diagnostic checks, and forecasting using appropriate time series methods. The findings will help in understanding seasonality patterns, long-term trends, and potential forecasting accuracy. This study provides insights into sales fluctuations and demonstrates the effectiveness of different forecasting models for real-world applications.
